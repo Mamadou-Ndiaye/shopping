@@ -42,7 +42,9 @@
     "jwtSecretKey": "NGE5NDgwOGJkNTMyOWU1MTNkY2RhYjNiMDg1NmQ0MTFhNmNiMGI5ODIzNTgwNDhmZTI1NzllMmI0ZDEwYzY4NjY0YTdmMWZlYmE4OGFkNmYyMGIwN2JlMDY3ZTQxOTgzNzdjNjUxZThlZWNkNWQ5ZDM3MDExODBhMTI3NTlmZGU=",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Category", "Product", "Customer", "Address", "WishList"],
+    "lastLiquibaseTimestamp": 1618837681000
   },
   "git-provider": "GitHub",
   "git-company": "Mamadou-Ndiaye",
